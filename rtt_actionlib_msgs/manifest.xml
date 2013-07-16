@@ -20,6 +20,7 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/rtt_rosnode</url>
   <depend package="rtt_rosnode"/>
+  <depend package="rtt_std_msgs"/>
   <depend package="actionlib_msgs"/>
 
   <export>
